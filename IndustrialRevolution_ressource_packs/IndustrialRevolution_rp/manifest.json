@@ -1,0 +1,19 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "Redéfinissez votre expérience de jeux en ajoutant Industrial Revolution à VOTRE monde!\\n\\nPartez à la découverte :\\n -Plus de 20 nouveaux minerais\\n -De nouvelles machines\\n -De nouvelles armes et outils\\n -De nouvelles armures\\n -Et bien plus encore\\n\\nAjoutez Industrial Revolution a votre monde dès aujourd'hui!",
+      "name": "Industrial Revolution",
+      "uuid":"2cbbc9a9-d48a-4b77-b13d-e47bcad4534f",
+      "version": [1, 0, 0],
+      "min_engine_version": [1, 19, 20]
+    },
+    "modules":
+      [
+        {
+            "description": "Redéfinissez votre expérience de jeux en ajoutant Industrial Revolution à VOTRE monde!\\n\\nPartez à la découverte :\\n -Plus de 20 nouveaux minerais\\n -De nouvelles machines\\n -De nouvelles armes et outils\\n -De nouvelles armures\\n -Et bien plus encore\\n\\nAjoutez Industrial Revolution a votre monde dès aujourd'hui!",
+            "type": "resources",
+            "uuid": "31814827-2f06-410c-9db0-99c95b417a28",
+            "version": [1, 0, 0]
+        }
+      ]
+  }
